@@ -33,13 +33,13 @@ name: script
 
 # Get Some Data
 
-To make sure we're all looking at the same data, download [this file](chapter-01.sql) and run this command:
+To import any sql file, run this command:
 
 ```sh
-$ psql postgres -f chapter-01.sql
+$ psql postgres -f [SQL FILE NAME]
 DROP DATABASE
 CREATE DATABASE
-You are now connected to database "analysis" as user "zach".
+You are now connected to database [TABLE NAME] as user "[USER NAME].
 CREATE TABLE
 INSERT 0 6
 ```
