@@ -16,5 +16,5 @@ When in a slideshow, use the following keys to navigate:
 
 ## Questions?
 
-If you have any questions on this repository or any of the info within, feel free to contact [Zach Fedor](mailto:fedor@stevenscollege.edu).
+If you have any questions on this repository or any of the info within, feel free to contact [Fahim Shams](mailto:shams@stevenscollege.edu).
 
